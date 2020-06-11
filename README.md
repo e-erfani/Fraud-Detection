@@ -21,5 +21,5 @@ In particular, we need to deal with an imbalanced dataset. To do so, we consider
 - Resampling the data (oversampling, undersampling, SMOTE, ...)
 - Changing the MLAs
 
-This dataset is available by Kaggle. I studied the data, performed an exploratory data analysis, used multiple 
+This dataset is available via Kaggle. I studied the data, performed an exploratory data analysis, used multiple 
 resampling methods, and developed various MLAs.
